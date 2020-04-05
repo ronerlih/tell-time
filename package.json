@@ -1,0 +1,14 @@
+{
+  "name": "tell-time",
+  "version": "1.0.3",
+  "description": "tells time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "whatTime": "./index.js"
+  },
+  "author": "ron",
+  "license": "ISC"
+}
